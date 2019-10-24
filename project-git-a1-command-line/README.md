@@ -1,16 +1,14 @@
 # Project Git A1 Command Line
 
 In this project you need to know :
-, ls
-, Filesystem
-, pwd
-, cd  
-, mkdir
-, touch
+, ls: type ls will locate you in the current folder you working in.
+, Filesystem : the computer files in a well orderly or family tree design
+, pwd : type pwd is used to pop out the names of the current folders you are in
+, cd : type cdchanges you from your current directory to another 
+, mkdir : used to create a new directory in same pwd
+, touch : used to create a new file in the newly created directory
 
-If you are not familier with them please download Learn Git and Github eBook from (https://codingwithbasir.com/learn-git-github)
-
-## Project Title: Backup Files
+## Project Title: !@#$codeing
 
 1. Create a text file with your name in this folder and add command you run in next steps here. I see this file review your work.
 
